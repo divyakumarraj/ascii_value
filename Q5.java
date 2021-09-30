@@ -1,3 +1,6 @@
+// given an array of int,print true if every element is 1 or 4.
+//only([1,4,2,4)] -> False
+
 
 import java.util.Scanner;
 class Solution{
